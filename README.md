@@ -4,6 +4,7 @@ I'm Rashini Nethmini — a Software Engineering undergraduate passionate about b
 
 ### 🚀 About Me
 - 🎓 BEng (Hons) Software Engineering Undergraduate — 3rd Year, IIT (Informatics Institute of Technology)
+- 💼 Software Engineering Intern at Vogue Software Solutions
 - 💻 Interested in Full-Stack Development, backend systems, and building real-world admin/management platforms
 - 🌱 Building real-world projects with Laravel, Spring Boot and Next.js
 - 🤝 Open to collaborating on web development projects
