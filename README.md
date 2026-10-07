@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Nethmi Rashini — a Software Engineering undergraduate passionate about building full-stack web applications and exploring backend architecture.
+I'm Rashini Nethmini — a Software Engineering undergraduate passionate about building full-stack web applications and exploring backend architecture.
 
 ### 🚀 About Me
 - 🎓 BEng (Hons) Software Engineering Undergraduate — 3rd Year, IIT (Informatics Institute of Technology)
