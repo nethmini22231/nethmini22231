@@ -2,6 +2,8 @@
 
 I'm Rashini Nethmini — a Software Engineering undergraduate passionate about building full-stack web applications and exploring backend architecture.
 
+🌐 **Portfolio:** [rashini-nethmini-dev.netlify.app](https://rashini-nethmini-dev.netlify.app)
+
 ### 🚀 About Me
 - 🎓 BEng (Hons) Software Engineering Undergraduate — 3rd Year, IIT (Informatics Institute of Technology)
 - 💼 Software Engineering Intern at Vogue Software Solutions
@@ -50,6 +52,7 @@ A full-stack admin panel built for an event management company, with a Laravel b
 🌐 [Live Demo](https://mzero-website-public.vercel.app/index.html)
 
 ### 📫 Connect With Me
+- 🌐 Portfolio: [rashini-nethmini-dev.netlify.app](https://rashini-nethmini-dev.netlify.app)
 - 📧 Email: nethminirashini709@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/rashininethmini)
 
