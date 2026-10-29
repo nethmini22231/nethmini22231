@@ -1,60 +1,77 @@
-## Hi there 👋
+# Hi, I'm Rashini Nethmini 👋
 
-I'm Rashini Nethmini — a Software Engineering undergraduate passionate about building full-stack web applications and exploring backend architecture.
+Software Engineering Undergraduate passionate about building full-stack web applications and exploring backend architecture.
 
-🌐 **Portfolio:** [rashini-nethmini-dev.netlify.app](https://rashini-nethmini-dev.netlify.app)
+## 🚀 About Me
 
-### 🚀 About Me
-- 🎓 BEng (Hons) Software Engineering Undergraduate — 3rd Year, IIT (Informatics Institute of Technology)
-- 💼 Software Engineering Intern at Vogue Software Solutions
-- 💻 Interested in Full-Stack Development, backend systems, and building real-world admin/management platforms
-- 🌱 Building real-world projects with Laravel, Spring Boot and Next.js
-- 🤝 Open to collaborating on web development projects
+* 🎓 BEng (Hons) Software Engineering Undergraduate, 3rd Year, IIT (Informatics Institute of Technology)
+* 💼 Software Engineering Intern at Vogue Software Solutions
+* 💻 Interested in Full-Stack Development, backend systems, and building real-world admin/management platforms
+* 🌱 Building real-world projects with Laravel, Spring Boot and Next.js
+* 🤝 Open to collaborating on web development projects
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack
 
 **Frontend**
-`HTML` `CSS` `JavaScript` `TypeScript` `Next.js`
+
+* HTML • CSS • JavaScript • TypeScript • Next.js
 
 **Backend**
-`PHP` `Laravel` `Spring Boot (Java)` `REST APIs` `JWT`
+
+* PHP • Laravel • Spring Boot (Java) • REST APIs • JWT
 
 **Database**
-`MySQL`
+
+* MySQL
 
 **Deployment**
-`Vercel` `Railway`
+
+* Vercel • Railway
 
 **Tools**
-`Git` `GitHub` `IntelliJ IDEA` `VS Code`
 
-### 🔥 Featured Projects
+* Git • GitHub • IntelliJ IDEA • VS Code
 
-**📰 Colombo Plan Secretariat — Admin Panel**
+## 🔥 Featured Projects
+
+### 📰 Colombo Plan Secretariat – Admin Panel
+
+🌐 Live: https://colombo-plan-full-nine.vercel.app/
+🔗 Repository: https://github.com/nethmini22231/colombo-plan-full
+
 A content management admin panel for a government organization's website, with a Next.js frontend and Spring Boot backend, deployed on Vercel and Railway.
 
-- JWT-based admin authentication
-- CRUD modules for News & Events, Publications, and Programs ("What We Do")
-- File/image upload handling with CORS-configured backend
-- Activity log system tracking admin actions
-- Public-facing pages connected to live backend data
+**Tech Stack:** Next.js • Spring Boot • JWT • Vercel • Railway
 
-🔗 [Repository](https://github.com/nethmini22231/colombo-plan-full) · 🌐 [Live Demo](https://colombo-plan-full-nine.vercel.app/)
+**Key Features**
 
-**🎉 MZERO Enterprises — Event Management Admin Panel**
+* JWT-based admin authentication
+* CRUD modules for News & Events, Publications, and Programs ("What We Do")
+* File/image upload handling with CORS-configured backend
+* Activity log system tracking admin actions
+* Public-facing pages connected to live backend data
+
+### 🎉 MZERO Enterprises – Event Management Admin Panel
+
+🌐 Live: https://mzero-website-public.vercel.app/index.html
+
 A full-stack admin panel built for an event management company, with a Laravel backend connected to MySQL.
 
-- Admin authentication (login/logout, session-based)
-- CRUD modules for Events, Portfolio, Packages, Blog, Gallery, Enquiries
-- Automated email confirmations via SMTP for customer quote requests
-- Custom-designed admin dashboard UI
+**Tech Stack:** Laravel • PHP • MySQL • SMTP
 
-🌐 [Live Demo](https://mzero-website-public.vercel.app/index.html)
+**Key Features**
 
-### 📫 Connect With Me
-- 🌐 Portfolio: [rashini-nethmini-dev.netlify.app](https://rashini-nethmini-dev.netlify.app)
-- 📧 Email: nethminirashini709@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/rashininethmini)
+* Admin authentication (login/logout, session-based)
+* CRUD modules for Events, Portfolio, Packages, Blog, Gallery, Enquiries
+* Automated email confirmations via SMTP for customer quote requests
+* Custom-designed admin dashboard UI
 
-### ⚡ Fun Fact
-I enjoy figuring out how frontend and backend pieces connect — there's something satisfying about seeing a form submit and actually land in the database.
+## 📫 Connect With Me
+
+* Portfolio: https://rashini-nethmini-dev.netlify.app
+* LinkedIn: https://www.linkedin.com/in/rashininethmini
+* Email: [nethminirashini709@gmail.com](mailto:nethminirashini709@gmail.com)
+
+## ⚡ Fun Fact
+
+I enjoy figuring out how frontend and backend pieces connect. There's something satisfying about seeing a form submit and actually land in the database.
